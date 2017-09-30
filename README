@@ -1,0 +1,11 @@
+This suite is used to test http://www.udemy.com
+
+Test assumptions:
+1. pytest is installed  (pip inbstall pytest)
+2. selenium is installed (pip install selenium)
+3. test is run from parent directory by executing pytest
+4. Chrome version is > 59
+5. user PATH is containing /usr/local/bin and test parent directory
+6. chromedriver default path is /usr/local/bin/chromedriver, to change edit DRIVER_PATH PARAM in constants.py
+
+
